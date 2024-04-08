@@ -140,3 +140,14 @@ C:\Users\ZapMaster PV\Documents\Work\HP_Project\simplewifi-example\simplewifi-ex
 C:\Users\ZapMaster PV\Documents\Work\HP_Project\simplewifi-example\simplewifi-example\SimpleWifi.Example\obj\Debug\cocoon.csproj.CopyComplete
 C:\Users\ZapMaster PV\Documents\Work\HP_Project\simplewifi-example\simplewifi-example\SimpleWifi.Example\obj\Debug\cocoon.exe
 C:\Users\ZapMaster PV\Documents\Work\HP_Project\simplewifi-example\simplewifi-example\SimpleWifi.Example\obj\Debug\cocoon.pdb
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\bin\Debug\cocoon.exe.config
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\bin\Debug\cocoon.exe
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\bin\Debug\cocoon.pdb
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\bin\Debug\SimpleWifi.dll
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\bin\Debug\Windows.WinMD
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\obj\Debug\cocoon.csproj.AssemblyReference.cache
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\obj\Debug\cocoon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\obj\Debug\cocoon.csproj.CoreCompileInputs.cache
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\obj\Debug\cocoon.csproj.CopyComplete
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\obj\Debug\cocoon.exe
+C:\Users\Modena\Documents\GitHub\cocoon\SimpleWifi.Example\obj\Debug\cocoon.pdb

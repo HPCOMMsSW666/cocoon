@@ -261,7 +261,9 @@ namespace SimpleWifi.Example
                         Console.WriteLine(infoObj.DeviceType.ToString());
                         break;
                     case "firmware":
-                        Console.WriteLine(infoObj.FirmwareInformation);
+                        string result = infoObj.FirmwareInformation;
+                        result= result.Replace("\r\n", "_");
+                        Console.WriteLine(result);
                         break;
                     case "manufacturer":
                         Console.WriteLine(infoObj.Manufacturer);
@@ -292,7 +294,9 @@ namespace SimpleWifi.Example
                         Console.WriteLine("Current Radio State: "+infoObj.CurrentRadioState.ToString());
                         Console.WriteLine("Device ID: "+infoObj.DeviceId);
                         Console.WriteLine("Device Type: "+infoObj.DeviceType.ToString());
-                        Console.WriteLine("Firmware: "+infoObj.FirmwareInformation);
+                        string FM = infoObj.FirmwareInformation;
+                        FM = FM.Replace("\r\n", "_");
+                        Console.WriteLine("Firmware: "+ FM);
                         Console.WriteLine("Manufacture: "+infoObj.Manufacturer);
                         Console.WriteLine("MobileEquipmentId: " + infoObj.MobileEquipmentId);
                         Console.WriteLine("Model: "+infoObj.Model);
